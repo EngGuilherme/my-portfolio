@@ -5,7 +5,7 @@ This is my personal portfolio website, where you can access my resume, LinkedIn,
 ## 🚀 Demo
 
 You can access the site through GitHub Pages:
-[https://your-username.github.io/my-portfolio](https://your-username.github.io/my-portfolio)
+[https://github.com/EngGuilherme/my-portfolio/](https://github.com/EngGuilherme/my-portfolio/)
 
 ## 🛠️ Technologies
 
